@@ -6,3 +6,4 @@ A so-called "simple pendulum" is an idealization of a "real pendulum" but in an 
 - The gravitational field is uniform. 
 - The support does not move.
 
+<img src="images/Pendulum.jpg" width="200" height="150">
