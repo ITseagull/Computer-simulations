@@ -1,0 +1,9 @@
+#Taylor series calculator
+It is common practice to approximate a function by using a finite number of terms of its Taylor series. 
+Taylor's theorem gives quantitative estimates on the error in this approximation. 
+Any finite number of initial terms of the Taylor series of a function is called a Taylor polynomial.
+
+The Taylor series of a real or complex-valued function ƒ(x) that is infinitely differentiable at
+a real or complex number a is the power series.
+A program to compute sin(x) for given value of x.
+
